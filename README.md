@@ -1,2 +1,1 @@
-# gwpoa1
-poagwfintech hw 1
+# Today We are setting up a POA blockchain. Pretty Simple I hope
