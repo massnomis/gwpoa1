@@ -54,3 +54,8 @@ for both nodes:
 ./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --rpc --allow-insecure-unlock
 
 ./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --mine --port 30304 --bootnoes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --ipcdisable -allow-insecure-unlock
+
+Step 10:
+init tx
+
+![image](https://user-images.githubusercontent.com/23089346/132416300-9d5622db-3695-4645-bfb3-edcafac8cdb4.png)
